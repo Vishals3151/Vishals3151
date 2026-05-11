@@ -175,11 +175,11 @@ const vishal = {
 <p align="center">
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="http://www.linkedin.com/in/vishal-gaikwad-9ba99228a"/>
 </a>
 
 <a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+<img src="https://portfolio-gamma-six-k5kjhiys15.vercel.app/"/>
 </a>
 
 <a href="mailto:vishalsureshgaikwad115@gmail.com">
