@@ -113,7 +113,7 @@ const vishal = {
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Vishals3151&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -174,12 +174,12 @@ const vishal = {
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="http://www.linkedin.com/in/vishal-gaikwad-9ba99228a"/>
+<a href="http://www.linkedin.com/in/vishal-gaikwad-9ba99228a">
+<img src="ttps://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://portfolio-gamma-six-k5kjhiys15.vercel.app/"/>
+<a href="https://portfolio-gamma-six-k5kjhiys15.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="mailto:vishalsureshgaikwad115@gmail.com">
