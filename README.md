@@ -1,98 +1,203 @@
-# Vishal Gaikwad
+<h1 align="center">Hi 👋, I'm Vishal Gaikwad</h1>
 
-Full Stack Developer | B.Tech (Third Year)  
-Pune, India  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vishalsureshgaikwad115@gmail.com)   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/vishal-gaikwad-9ba99228a)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Vishals3151) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://portfolio-gamma-six-k5kjhiys15.vercel.app/)
+<h3 align="center">
+AI & Full Stack Developer from India 🇮🇳
+</h3>
 
----
-
-## Summary
-Dedicated Full Stack Developer with hands-on experience in building scalable and secure web applications. Strong foundation in Data Structures, Object-Oriented Programming, and MVC architecture. Passionate about continuous learning, problem-solving, and contributing to real-world software solutions. Actively seeking internship and placement opportunities in software development.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+%7C+Node+%7C+Python;Building+Scalable+Applications;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & APIs
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## Projects
+# 🚀 About Me
 
-### StayVerse – Full Stack Rental Platform
-Live: https://stayverse-k32u.onrender.com  
+```javascript
+const vishal = {
+    location: "Pune, India",
+    
+    education: {
+        college: "VIIT Pune",
+        degree: "B.Tech in Artificial Intelligence",
+        cgpa: "8.65"
+    },
 
-**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Passport.js, Cloudinary, Mapbox  
+    currentFocus: [
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "System Design",
+        "Scalable Backend Systems"
+    ],
 
-- Built a full-stack rental platform inspired by Airbnb
-- Implemented secure authentication and role-based access control
-- Integrated Cloudinary for image uploads and Mapbox for location-based listings
-- Developed property listings, booking flow, and review system
+    technologies: {
+        frontend: [
+            "React.js",
+            "Next.js",
+            "HTML5",
+            "CSS3",
+            "Tailwind CSS"
+        ],
+
+        backend: [
+            "Node.js",
+            "Express.js",
+            "FastAPI",
+            "REST APIs",
+            "tRPC"
+        ],
+
+        databases: [
+            "MongoDB",
+            "MySQL",
+            "PostgreSQL"
+        ],
+
+        ai_ml: [
+            "OpenCV",
+            "Scikit-Learn",
+            "MediaPipe",
+            "OpenAI API"
+        ],
+
+        tools: [
+            "Git",
+            "GitHub",
+            "Postman",
+            "Docker",
+            "VS Code",
+            "Cloudinary",
+            "Mapbox"
+        ]
+    },
+
+    achievements: [
+        "SIH Internal Winner",
+        "Top 7 - 2 Fast 2 Hack",
+        "National Level Hackathons"
+    ],
+
+    motto: "Code. Learn. Build. Repeat."
+};
+```
 
 ---
 
-### ScoutAI – AI Powered Football Scouting Platform
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Firebase, REST APIs  
+# 🛠️ Tech Stack
 
-- Designed a digital scouting platform to track and evaluate football players
-- Implemented player performance metrics, video uploads, and scouting reports
-- Enabled coaches and scouts to discover talent using verified data
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,python,java,cpp,js,ts,mongodb,mysql,postgres,tailwind,docker,git,github,vscode,postman" />
 
-## Achievements
-- SIH Internal Level Winner
-- Top 7 finalist in 2 Fast 2 Hack Hackathon
-- Participated in multiple hackathons
-- State-level football player
+</p>
 
 ---
 
-## Certifications
-- DSA in Java – Infosys Springboard
-- Postman API Fundamentals – Postman
-- CCNAv7 (Module 1) – Cisco
-- Virtual Internship – Amazon Web Services
-- SIH Nomination Certificate
-- Techathon 2.0
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## Education
+# 🔥 GitHub Streak
 
-**Bachelor of Technology (2023 – Present)**  
-Vishwakarma Institute of Information Technology  
-CGPA: 8.65  
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
 
-**HSC (2022 – 2023):** 85.33%  
-**SSC (2020 – 2021):** 95%
+---
+
+# 🏆 Achievements
+
+🏅 SIH Internal Level Winner  
+🏅 Top 7 in “2 Fast 2 Hack”  
+🏅 National-Level Hackathon Participant  
+🏅 State-Level Football Competitor  
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 NexusAI — AI Meeting Intelligence Platform
+
+> AI-powered meeting platform with transcript generation, summaries, and contextual AI Q&A.
+
+### Tech Stack
+- Next.js 15
+- React 19
+- PostgreSQL
+- tRPC
+- OpenAI API
+- Inngest
+
+---
+
+## 🏠 StayVerse — Rental Marketplace Platform
+
+> Full-stack rental marketplace with authentication, maps integration, and property management.
+
+### Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+- Passport.js
+- Cloudinary
+- Mapbox
+
+---
+
+## 🤖 SmartAttendAI — AI Attendance System
+
+> AI-based real-time face recognition attendance system with anti-spoofing and predictive analytics.
+
+### Features
+- Face Recognition
+- Blink Detection
+- WebSocket Streaming
+- Isolation Forest Analytics
+- Firebase Integration
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:vishalsureshgaikwad115@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```txt
+I turn coffee ☕ into scalable applications 🚀
+```
+
+---
+
+<p align="center">
+⭐ From <b>Vishal Gaikwad</b>
+</p>
