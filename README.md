@@ -100,13 +100,18 @@ const vishal = {
 
 # 📊 GitHub Stats
 
-<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishals3151&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishals3151&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Vishals3151&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishals3151&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
 
 ---
 
