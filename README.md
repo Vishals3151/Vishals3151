@@ -1,27 +1,30 @@
-<h1 align="center">⚡ Vishal Gaikwad</h1>
+<h1 align="center">👋 Hi, I'm Vishal Suresh Gaikwad</h1>
 
 <h3 align="center">
-AI Engineer • Full Stack Developer • Builder
+Full Stack Developer • AI Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-  <b>Building intelligent, scalable & real-world applications with AI and modern web technologies.</b>
+  <b>Building scalable web applications, intelligent AI solutions, and products that solve real-world problems.</b>
 </p>
 
 <p align="center">
   <a href="https://portfolio-gamma-six-k5kjhiys15.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vishal-gaikwad-9ba99228">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vishalsureshgaikwad115@gmail.com">
+  <a href="mailto:vishalsgaikwad249@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vishals3151">
+    <img src="https://img.shields.io/badge/GitHub-Vishals3151-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+Full+Stack+Developer;Building+Real-World+AI+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Python;Turning+Ideas+Into+Scalable+Products;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+%7C+Next.js+%7C+REST+APIs;AI-Powered+Application+Builder;Java+%7C+Python+%7C+JavaScript;Building+Scalable+Real-World+Solutions" />
 </p>
 
 <p align="center">
@@ -30,75 +33,79 @@ AI Engineer • Full Stack Developer • Builder
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 ```javascript
 const vishal = {
-    name: "Vishal Gaikwad",
+    name: "Vishal Suresh Gaikwad",
     location: "Pune, India 🇮🇳",
 
     education: {
-        college: "VIIT Pune",
-        degree: "B.Tech in Artificial Intelligence",
-        cgpa: "8.65"
+        college: "Vishwakarma Institute of Information Technology",
+        degree: "B.Tech in Information Technology",
+        duration: "2023 - 2027",
+        cgpa: "8.74"
     },
 
-    role: [
-        "AI Engineer",
-        "Full Stack Developer",
-        "Problem Solver"
-    ],
+    role: "Full Stack Developer",
 
-    currentlyBuilding: [
-        "AI-powered applications",
-        "Scalable full-stack systems",
-        "Intelligent developer tools"
-    ],
+    experience: {
+        company: "Influent360",
+        position: "Project Intern",
+        duration: "Jan 2026 - May 2026"
+    },
 
-    currentFocus: [
-        "Artificial Intelligence",
+    expertise: [
         "Full Stack Development",
-        "System Design",
-        "Backend Engineering",
-        "Scalable Applications"
+        "MERN Stack",
+        "REST API Development",
+        "Backend Architecture",
+        "Database Management",
+        "AI-Powered Applications"
     ],
 
-    motto: "Code. Learn. Build. Repeat."
+    currentlyLearning: [
+        "System Design",
+        "Scalable Backend Systems",
+        "Artificial Intelligence",
+        "Advanced DSA"
+    ],
+
+    motto: "Build. Learn. Solve. Repeat."
 };
 ```
 
 ---
 
-## 🚀 What I Build
+## 💻 What I Do
 
 <table align="center">
 <tr>
+
+<td align="center" width="33%">
+
+### 🌐 Full Stack Development
+
+Building responsive and scalable applications using **MERN, React, Next.js and REST APIs**.
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend Engineering
+
+Designing secure APIs, database architectures, authentication systems and maintainable backend services.
+
+</td>
+
 <td align="center" width="33%">
 
 ### 🤖 AI Applications
 
-Building intelligent applications using
-**AI, ML, Computer Vision & LLMs**
+Building practical AI-powered applications that combine modern web technologies with intelligent systems.
 
 </td>
 
-<td align="center" width="33%">
-
-### 🌐 Full Stack Systems
-
-Designing modern applications using
-**React, Next.js, Node.js & databases**
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️ Scalable Backend
-
-Working with APIs, databases,
-authentication & backend architecture
-
-</td>
 </tr>
 </table>
 
@@ -106,22 +113,34 @@ authentication & backend architecture
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,javascript,python,cpp" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MVC_Architecture-333333?style=for-the-badge" />
 </p>
 
 ### 🗄️ Databases
@@ -130,98 +149,98 @@ authentication & backend architecture
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-### 🤖 AI / ML
+### 🧰 Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,opencv" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 <p>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,firebase" />
-</p>
-
-<p>
-
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
 
-<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-# 🧠 Featured Projects
+# 🚀 Featured Projects
 
-## 🧠 NexusAI — AI Meeting Intelligence Platform
+## 🧠 NexusAI — AI-Powered Meeting Intelligence Platform
 
-> An AI-powered meeting intelligence platform designed to transform conversations into actionable insights.
+> A scalable AI-powered SaaS platform that enables real-time video calls with customizable AI agents for interview coaching, language tutoring, sales assistance, and more.
 
-**Features**
+### ✨ Highlights
 
-* 🎙️ Meeting transcription
-* 🧠 AI-powered summaries
-* 💬 Context-aware AI Q&A
-* 📊 Meeting intelligence
-* ⚡ Background job processing
-* 🔐 Modern authentication & backend architecture
+* 🎥 Real-time video calls with AI agents
+* 🤖 Integrated Grok API for natural AI interactions
+* ⚡ Stream Video SDK for real-time communication
+* 📝 Automated meeting summaries
+* 🔎 Searchable meeting transcripts
+* 🎬 Recorded video playback
+* 💬 Contextual AI Q&A based on meeting transcripts
+* 🏗️ Scalable application architecture
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-`Next.js 15` `React 19` `PostgreSQL` `tRPC` `OpenAI API` `Inngest`
+`Next.js 15` `React 19` `PostgreSQL` `Drizzle ORM` `Grok API` `Stream Video SDK`
 
 ---
 
-## 🏠 StayVerse — Rental Marketplace
+## 🏠 StayVerse — Full-Stack Rental Platform
 
-> A full-stack rental marketplace inspired by modern property booking platforms.
+> A full-stack rental marketplace that allows users to list, discover, and book rental properties with secure authentication, online payments, maps, and cloud-based image management.
 
-**Features**
+### ✨ Highlights
 
-* 🔐 User authentication
-* 🏡 Property listings
-* 📍 Interactive Mapbox maps
-* ☁️ Cloud image storage
-* ⭐ Reviews & ratings
+* 🏡 Property listing and management
 * 🔎 Property search
-* 👤 Property management
+* 📅 Rental booking
+* 🔐 Secure authentication
+* 👥 Role-based authorization
+* 💳 Razorpay online payment integration
+* ☁️ Cloudinary image storage
+* 📍 Mapbox property visualization
+* 🏗️ MVC architecture
+* 🛠️ Session management
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-`Node.js` `Express.js` `MongoDB` `EJS` `Passport.js` `Cloudinary` `Mapbox`
+`Node.js` `Express.js` `MongoDB` `EJS` `Passport.js` `Razorpay API` `Cloudinary` `Mapbox`
 
 ---
 
-## 🤖 SmartAttendAI — AI Attendance System
+## ⚽ ScoutAI — AI-Powered Football Scouting Platform
 
-> Real-time AI-powered attendance platform using computer vision and intelligent analytics.
+> A research-driven AI platform focused on football player performance analysis, talent identification, and data-driven recruitment.
 
-**Features**
+### ✨ Focus Areas
 
-* 👤 Face recognition
-* 👁️ Blink detection
-* 🛡️ Anti-spoofing
-* ⚡ Real-time WebSocket streaming
-* 📊 Attendance analytics
-* 🔥 Firebase integration
-* 📈 Isolation Forest-based anomaly detection
+* 📊 Player performance analysis
+* 🧠 Machine learning-based scouting
+* 🔍 Talent identification
+* 📈 Data-driven recruitment
+* ⚽ Football analytics
 
-**Tech Stack**
+### 📚 Research
 
-`Python` `OpenCV` `MediaPipe` `WebSockets` `Firebase` `Machine Learning`
+Published research proposing the use of AI and machine learning to improve football scouting and recruitment through data-driven player evaluation.
+
+---
+
+# 💼 Experience
+
+### Project Intern — Influent360
+
+**Jan 2026 – May 2026**
+
+* 💻 Developed and maintained responsive full-stack web applications using the **MERN stack**.
+* 🔌 Designed and integrated **8+ RESTful APIs** for secure frontend-backend communication.
+* ⚡ Optimized reusable React components and backend business logic, improving response time by approximately **20%**.
+* 🌿 Collaborated using **Git & GitHub** following Agile and SDLC practices.
+* 🐛 Participated in debugging, testing, and feature implementation.
+* 🏗️ Focused on building reliable and maintainable software solutions.
 
 ---
 
@@ -229,23 +248,27 @@ authentication & backend architecture
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🏆_SIH-Internal_Level_Winner-gold?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏆_Smart_India_Hackathon-Internal_Winner-gold?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/🚀_2_Fast_2_Hack-Top_7-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/💡_Hackathons-National_Level-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_National_Hackathons-Active_Participant-blue?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/⚽_Football-State_Level-orange?style=for-the-badge" />
 
 </p>
 
-### Highlights
+* 🏆 **Internal Winner — Smart India Hackathon (SIH)**
+* 🚀 **Active participant in National-Level Hackathons**
+* ⚽ **State-Level Football Player**
+* 🤝 **Handball Team Member — VIIT Pune**
 
-* 🏆 **SIH Internal Level Winner**
-* 🚀 **Top 7 — 2 Fast 2 Hack**
-* 💡 **Participated in National-Level Hackathons**
-* ⚽ **State-Level Football Competitor**
-* 🧑‍💻 Building and experimenting with AI & full-stack products
+---
+
+# 📜 Certifications
+
+* 🎓 **IBM Full Stack Software Developer** — Coursera
+* 🌐 **CCNA: Introduction to Networks** — Cisco
+* 💻 **Data Structures & Algorithms in Java** — Infosys
+* ☁️ **AWS Virtual Internship**
 
 ---
 
@@ -271,7 +294,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishals3151&
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishals3151&theme=tokyo-night&hide_border=true&area=true" />
@@ -279,7 +302,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishals3151&
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <p align="center">
 
@@ -288,10 +311,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishals3151&
 </a>
 
 <a href="https://portfolio-gamma-six-k5kjhiys15.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:vishalsureshgaikwad115@gmail.com">
+<a href="https://leetcode.com/u/Vcoder3151/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:vishalsgaikwad249@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -299,44 +326,25 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishals3151&
 
 ---
 
-# ⚡ Currently
+# ⚡ Beyond Code
 
 ```text
-🔭 Building       → AI-powered & full-stack applications
+⚽ State-Level Football Player
+🤝 Documentation Head — ITSF, VIIT Pune
+🩸 Blood Donation Volunteer — NSS, VIIT Pune
+🏐 Handball Team Member — VIIT Pune
 
-🌱 Learning       → System Design, AI Engineering & scalable backend systems
-
-💻 Coding         → Java • Python • JavaScript • TypeScript
-
-🧠 Exploring      → LLMs • Computer Vision • Machine Learning
-
-🚀 Goal           → Build products that solve real-world problems
-
-☕ Fuel            → Coffee + Code
+☕ Coffee + Code + Curiosity
 ```
 
 ---
 
-# 💡 Developer Philosophy
-
 <p align="center">
 
-<i>
-"Don't just learn technologies. Build something meaningful with them."
-</i>
+### 🚀 Build things that matter.
 
-</p>
+<b>Code. Learn. Solve. Repeat.</b>
 
-<p align="center">
-
-<strong>Code. Learn. Build. Repeat. 🚀</strong>
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <p align="center">
