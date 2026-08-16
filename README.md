@@ -33,46 +33,71 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```javascript
-const vishal = {
-    name: "Vishal Suresh Gaikwad",
-    location: "Pune, India 🇮🇳",
+<p align="center">
+  <b>Full Stack Developer passionate about building scalable, secure, and real-world software solutions.</b>
+</p>
 
-    education: {
-        college: "Vishwakarma Institute of Information Technology",
-        degree: "B.Tech in Information Technology",
-        duration: "2023 - 2027",
-        cgpa: "8.74"
-    },
+<p align="center">
+  I enjoy turning ideas into production-ready applications by combining
+  <b>modern frontend technologies, robust backend systems, and intelligent solutions.</b>
+</p>
 
-    role: "Full Stack Developer",
+<br>
 
-    experience: {
-        company: "Influent360",
-        position: "Project Intern",
-        duration: "Jan 2026 - May 2026"
-    },
+<table align="center">
+<tr>
 
-    expertise: [
-        "Full Stack Development",
-        "MERN Stack",
-        "REST API Development",
-        "Backend Architecture",
-        "Database Management",
-        "AI-Powered Applications"
-    ],
+<td align="center" width="25%">
 
-    currentlyLearning: [
-        "System Design",
-        "Scalable Backend Systems",
-        "Artificial Intelligence",
-        "Advanced DSA"
-    ],
+🎓 <b>Education</b>
 
-    motto: "Build. Learn. Solve. Repeat."
-};
+B.Tech in
+Information Technology
+
+</td>
+
+<td align="center" width="25%">
+
+💻 <b>Development</b>
+
+MERN Stack
+Next.js • REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+🤖 <b>Interests</b>
+
+AI Applications
+Backend Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+🚀 <b>Mindset</b>
+
+Learn • Build
+Solve • Improve
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+🔹 Strong foundation in <b>DSA, OOP, DBMS, OS & SDLC</b> <br>
+🔹 Experienced in building <b>full-stack applications and RESTful APIs</b> <br>
+🔹 Interested in <b>AI, scalable systems and real-world problem solving</b>
+
+</p>
+
 ```
 
 ---
