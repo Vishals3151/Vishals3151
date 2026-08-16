@@ -1,18 +1,14 @@
-<h1 align="center">Hi 👋, I'm Vishal Gaikwad</h1>
+<h1 align="center">⚡ Vishal Gaikwad</h1>
 
-<h3 align="center">
-AI & Full Stack Developer from India 🇮🇳
-</h3>
+<h3 align="center"> AI Engineer • Full Stack Developer • Builder </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+%7C+Node+%7C+Python;Building+Scalable+Applications;Always+Learning+New+Things" />
-</p>
+<p align="center"> <b>Building intelligent, scalable & real-world applications with AI and modern web technologies.</b> </p>
 
----
+<p align="center"> <a href="https://portfolio-gamma-six-k5kjhiys15.vercel.app/"> <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-black?style=for-the-badge&logo=vercel" /> </a> <a href="https://www.linkedin.com/in/vishal-gaikwad-9ba99228"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:vishalsureshgaikwad115@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+Full+Stack+Developer;Building+Real-World+AI+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Python;Turning+Ideas+Into+Scalable+Products;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vishals3151&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> </p>
 
 ---
 
